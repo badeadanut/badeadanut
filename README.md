@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@badeadanut](https://github.com/badeadanut)
-- 👀 I’m interested in game engine development
+- 👀 I’m interested in game engine and web development
 - 📫 Reach me via [discord](https://discord.gg/EVxbrGEh48)
 
 <!---
